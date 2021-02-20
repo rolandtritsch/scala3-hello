@@ -1,8 +1,8 @@
-## sbt project compiled with Scala 3
+# Scala 3 - Hello World
 
-### Usage
+Using this to get my initial dev env (emacs) up and running (and to make minitest work).
 
-This is a normal sbt project. You can compile code with `sbt compile`, run it with `sbt run`, and `sbt console` will start a Scala 3 REPL.
+To make this work you need to ...
 
-For more information on the sbt-dotty plugin, see the
-[dotty-example-project](https://github.com/lampepfl/dotty-example-project/blob/master/README.md).
+* install sbt (>= 1.4) (using brew or asdf)
+* run `sbt test` and `sbt run`
