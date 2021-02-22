@@ -3,4 +3,4 @@ def hello: Unit = {
     println(message)
 }
 
-def message = "Hello Scala-3"
+def message = "Hello Scala 3!"
